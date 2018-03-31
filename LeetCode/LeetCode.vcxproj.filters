@@ -21,5 +21,17 @@
     <ClCompile Include="8_String_to_Integer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11_Container_With_Most_Water.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_Longest_Common_Prefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_Longest_Substring_Without_Repeating_Characters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

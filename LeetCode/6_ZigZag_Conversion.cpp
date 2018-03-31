@@ -54,13 +54,3 @@ public:
 		return ret;
 	}
 };
-
-int main(int argc, char **argv) {
-	Solution solution;
-	string str;
-	int row;
-	cin >> str >> row;
-	str = solution.convert(str,row);
-	cout << str;
-	system("pause");
-}

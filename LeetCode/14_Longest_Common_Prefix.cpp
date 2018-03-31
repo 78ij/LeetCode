@@ -24,12 +24,3 @@ public:
 		return shortest.substr(0, tail);
 	}
 };
-
-int main(int argc, char **argv) {
-	Solution solution;
-	vector<string> strs;
-	string res;
-	res = solution.longestCommonPrefix(strs);
-	cout << res;
-	system("pause");
-}

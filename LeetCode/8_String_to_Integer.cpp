@@ -105,13 +105,3 @@ public:
 		return isminus ? -bit : bit;
 	}
 };
-
-int main(int argc, char **argv) {
-	Solution solution;
-	string str;
-	int res;
-	cin >> str;
-	res = solution.myAtoi(str);
-	cout << res;
-	system("pause");
-}

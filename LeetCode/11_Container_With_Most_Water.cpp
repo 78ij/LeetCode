@@ -25,13 +25,3 @@ public:
 		return maxwater;
 	}
 };
-
-int main(int argc, char **argv) {
-	Solution solution;
-	int height;
-	vector<int> heights;
-	int res;
-	res = solution.maxArea(heights);
-	cout << res;
-	system("pause");
-}
